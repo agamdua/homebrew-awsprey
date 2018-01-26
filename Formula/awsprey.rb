@@ -1,9 +1,9 @@
 class Awsprey < Formula
   desc ""
   homepage ""
-  url "https://github.com/agamdua/awsprey/releases/download/v0.1.1/awsprey_0.1.1_darwin_amd64.tar.gz"
-  version "0.1.1"
-  sha256 "04d689b51cb3cc1a2a5f23f73c49f9ee9d851cbb4a5b360b69c26794914e9956"
+  url "https://github.com/agamdua/awsprey/releases/download/v0.1.2/awsprey_0.1.2_darwin_amd64.tar.gz"
+  version "0.1.2"
+  sha256 "cbd7a0afa14d825fdbc54c4c5ac73fa69caf94c49d59ec035a0a13c2ded189ce"
 
   def install
     bin.install "awsprey"
